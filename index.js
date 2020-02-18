@@ -1,5 +1,5 @@
-console.log('Hit')
+console.log('Hello there')
 var name
-name = "Jaden"
+name = "Obi-Wan Kenobi"
 
 //  This is a file
